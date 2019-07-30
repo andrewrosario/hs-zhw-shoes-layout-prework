@@ -24,4 +24,21 @@
 
 /* Posititoning Classes */
 
+.featured_big {
+  width: 65.333%;
+  float: left;
+  margin-right: 10px;
+  box-sizing: border-box;
+}
 
+.archive {
+  width: 32.666%;
+  float: left;
+  box-sizing: border-box;
+}
+
+.deals {
+  clear: both;
+  width: 32.666%;
+  float: left;
+}
